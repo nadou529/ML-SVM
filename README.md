@@ -1,2 +1,2 @@
 # ML-SVM
-basic ideas about svm
+basic ideas about svm. example (python code)
